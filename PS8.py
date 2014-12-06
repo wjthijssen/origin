@@ -1,3 +1,4 @@
+#SMILEY FACE
 import numpy as np
 import matplotlib.pyplot as plt
 #Plotting NPV vs t
